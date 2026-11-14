@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Alejandro Sanguino — Desarrollo web y productos digitales" width="100%" />
+<img src="https://raw.githubusercontent.com/sanguino09/sanguino09/main/banner.svg" alt="Alejandro Sanguino — Desarrollo web y productos digitales" width="100%" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Kombatly](https://img.shields.io/badge/Kombatly-www.kombatly.app-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7f1d1d)](https://www.kombatly.app)
+[![Kombatly](https://img.shields.io/badge/Web-www.kombatly.app-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7f1d1d)](https://www.kombatly.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlejandroSanguino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084c91)](https://www.linkedin.com/in/AlejandroSanguino)
 [![España](https://img.shields.io/badge/Desde-España-475569?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=334155)](#)
 
@@ -67,7 +67,7 @@ Combino la mirada de un **ingeniero aeronáutico** (sistemas, rigor, fiabilidad)
 <div align="center">
 
 <a href="https://www.kombatly.app">
-  <img src="https://img.shields.io/badge/Abrir_Kombatly-www.kombatly.app-dc2626?style=for-the-badge&logo=rocket&logoColor=white&labelColor=7f1d1d" alt="Abrir Kombatly" />
+  <img src="https://img.shields.io/badge/Abrir-www.kombatly.app-dc2626?style=for-the-badge&logo=rocket&logoColor=white&labelColor=7f1d1d" alt="Abrir Kombatly" />
 </a>
 
 </div>
@@ -87,12 +87,11 @@ Una plataforma completa para que las academias gestionen su día a día y los al
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanguino09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&count_private=true&include_all_commits=true&rank_icon=github" alt="Estadísticas de GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanguino09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=22d3ee&text_color=cbd5e1&langs_count=8" alt="Lenguajes más usados" />
-
 <img src="https://streak-stats.demolab.com?user=sanguino09&theme=tokyonight&hide_border=true&background=0b1020&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="Racha de contribuciones" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanguino09&bg_color=0b1020&color=cbd5e1&line=22d3ee&point=a78bfa&area=true&area_color=22d3ee&hide_border=true" alt="Gráfico de actividad" width="100%" />
+<br/><br/>
+
+![Seguidores](https://img.shields.io/github/followers/sanguino09?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=7c3aed&labelColor=312e81)
 
 </div>
 
@@ -105,7 +104,7 @@ Una plataforma completa para que las academias gestionen su día a día y los al
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlejandroSanguino)
-[![Web](https://img.shields.io/badge/Web-kombatly.app-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7f1d1d)](https://www.kombatly.app)
+[![Web](https://img.shields.io/badge/Web-www.kombatly.app-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7f1d1d)](https://www.kombatly.app)
 
 <br/>
 
