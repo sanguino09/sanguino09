@@ -7,14 +7,14 @@
 <br/>
 
 <a href="https://github.com/sanguino09">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Convierto+ideas+en+productos+reales+%F0%9F%9B%A0%EF%B8%8F;Ingeniero+aeron%C3%A1utico+que+aprendi%C3%B3+a+programar+%E2%9C%88%EF%B8%8F;Fundador+de+Kombatly+%F0%9F%A5%8B;Analista+funcional+en+Iberia+%F0%9F%9B%AB;Abierto+a+nuevos+retos+%F0%9F%9A%80" alt="Frases animadas" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Convierto+ideas+en+productos+reales;Ingeniero+aeron%C3%A1utico+que+aprendi%C3%B3+a+programar;Fundador+de+Kombatly;Analista+funcional+en+Iberia;Abierto+a+nuevos+retos" alt="Frases animadas" />
 </a>
 
 <br/>
 
-[![Kombatly](https://img.shields.io/badge/Kombatly-www.kombatly.app-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1020)](https://www.kombatly.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlejandroSanguino-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020)](https://www.linkedin.com/in/AlejandroSanguino)
-[![España](https://img.shields.io/badge/Desde-España-22d3ee?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0b1020)](#)
+[![Kombatly](https://img.shields.io/badge/Kombatly-www.kombatly.app-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7f1d1d)](https://www.kombatly.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlejandroSanguino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084c91)](https://www.linkedin.com/in/AlejandroSanguino)
+[![España](https://img.shields.io/badge/Desde-España-475569?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=334155)](#)
 
 <img src="https://komarev.com/ghpvc/?username=sanguino09&label=Visitas&color=7c3aed&style=flat-square" alt="Contador de visitas" />
 
@@ -27,12 +27,10 @@
 Soy un creador de España apasionado por **convertir ideas 💡 en realidades 🔨**.
 Combino la mirada de un **ingeniero aeronáutico** (sistemas, rigor, fiabilidad) con la de un **desarrollador de producto**: me gusta entender el problema, diseñarlo bien y llevarlo a producción.
 
-|   |   |
-|---|---|
-| 🛫 **Ahora mismo** | Analista funcional de proyectos y aplicaciones en **Iberia** |
-| 🥋 **Construyendo** | **[Kombatly](https://www.kombatly.app)**: la plataforma para academias de artes marciales (clases, alumnos, cinturones, pagos, torneos…) |
-| 🧠 **Aprendiendo** | Arquitectura de producto, rendimiento y seguridad en bases de datos |
-| 🤝 **Busco** | Propuestas, ofertas y proyectos retadores, mejor si es en equipo |
+- 🛫 **Ahora mismo:** analista funcional de proyectos y aplicaciones en **Iberia**
+- 🥋 **Construyendo:** **[Kombatly](https://www.kombatly.app)**, la plataforma para academias de artes marciales (clases, alumnos, cinturones, pagos, torneos…)
+- 🧠 **Aprendiendo:** arquitectura de producto, rendimiento y seguridad en bases de datos
+- 🤝 **Busco:** propuestas, ofertas y proyectos retadores, mejor si es en equipo
 
 > *"Estoy abierto a cualquier propuesta y oferta. Me encanta tomar nuevos retos y afrontarlos de maneras creativas."*
 
@@ -69,7 +67,7 @@ Combino la mirada de un **ingeniero aeronáutico** (sistemas, rigor, fiabilidad)
 <div align="center">
 
 <a href="https://www.kombatly.app">
-  <img src="https://img.shields.io/badge/Abrir_Kombatly-www.kombatly.app-22d3ee?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0b1020" alt="Abrir Kombatly" />
+  <img src="https://img.shields.io/badge/Abrir_Kombatly-www.kombatly.app-dc2626?style=for-the-badge&logo=rocket&logoColor=white&labelColor=7f1d1d" alt="Abrir Kombatly" />
 </a>
 
 </div>
@@ -107,7 +105,7 @@ Una plataforma completa para que las academias gestionen su día a día y los al
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlejandroSanguino)
-[![Web](https://img.shields.io/badge/Web-kombatly.app-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1020)](https://www.kombatly.app)
+[![Web](https://img.shields.io/badge/Web-kombatly.app-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7f1d1d)](https://www.kombatly.app)
 
 <br/>
 
